@@ -13,10 +13,12 @@ Divider
 
 - soon
 
-### Contributions
+## Contributions
 
 are welcome. Pull requests are great, but issues are good too.
 
-### License
+Thank you to all the people who already contributed to Enso!
 
-This package is released under the MIT license.
+## License
+
+[ISC](https://opensource.org/licenses/ISC)
