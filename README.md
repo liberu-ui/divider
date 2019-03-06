@@ -1,22 +1,43 @@
 # Divider
 
-[![License](https://poser.pugx.org/laravel-enso/divider/license)](https://packagist.org/packages/laravel-enso/divider)
-[![Latest Stable Version](https://poser.pugx.org/laravel-enso/divider/version)](https://packagist.org/packages/laravel-enso/divider)
+![NPM License](https://img.shields.io/npm/l/@enso-ui/divider.svg)
+![npm download](https://img.shields.io/npm/dm/@enso-ui/divider.svg)
+![GitHub top language](https://img.shields.io/github/languages/top/enso-ui/divider.svg)
+![GitHub issues](https://img.shields.io/github/issues/enso-ui/divider.svg)
+![npm version](https://img.shields.io/npm/v/@enso-ui/divider.svg)
 
-Divider
+Vue Divider Package
 
-### Features
+## Usage
 
-- soon
+The component can be used outside of the Enso ecosystem.
 
-### Configuration & Usage
+### Demo
 
-- soon
+For live examples and demos, you may visit [laravel-enso.com](https://www.laravel-enso.com)
 
-### Contributions
+### Installation
+
+Install the package:
+```
+npm i @enso-ui/divider
+```
+Import the desired divider(s):
+```js
+import Divider from '@enso-ui/divider';
+```
+
+### Exports
+
+`@enso-ui/divider`:
+- `Divider`,
+
+## Contributions
 
 are welcome. Pull requests are great, but issues are good too.
 
-### License
+Thank you to all the people who already contributed to Enso!
 
-This package is released under the MIT license.
+## License
+
+[ISC](https://opensource.org/licenses/ISC)
