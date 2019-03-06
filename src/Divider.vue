@@ -24,7 +24,6 @@ export default {
 <style lang="scss">
     .is-divider {
         height: 1px;
-        margin: .5rem 0;
 
         &.left {
             text-align: left;
