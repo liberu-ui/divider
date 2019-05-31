@@ -1,6 +1,6 @@
 {
   "name": "@enso-ui/divider",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Divider",
   "main": "index.js",
   "scripts": {
