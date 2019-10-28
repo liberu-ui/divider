@@ -16,21 +16,9 @@ The component can be used outside of the Enso ecosystem.
 
 For live examples and demos, you may visit [laravel-enso.com](https://www.laravel-enso.com)
 
-### Installation
+### Installation, Configuration & Usage
 
-Install the package:
-```
-npm i @enso-ui/divider
-```
-Import the desired divider(s):
-```js
-import Divider from '@enso-ui/divider';
-```
-
-### Exports
-
-`@enso-ui/divider`:
-- `Divider`,
+Be sure to check out the full documentation for this package available at [docs.laravel-enso.com](https://docs.laravel-enso.com/frontend/accessories.html)
 
 ## Contributions
 
