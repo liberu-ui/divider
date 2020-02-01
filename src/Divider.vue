@@ -27,6 +27,10 @@ export default {
 
         &.left {
             text-align: left;
+
+            &[data-title]::after {
+                margin-left: 0.5em;
+            }
         }
 
         &.center {
@@ -35,6 +39,10 @@ export default {
 
         &.right {
             text-align: right;
+
+            &[data-title]::after {
+                margin-right: 0.5em;
+            }
         }
     }
 
@@ -42,9 +50,9 @@ export default {
         content: attr(data-title);
         display: inline-block;
         font-size: 1rem;
-        -webkit-transform: translateY(-0.9rem);
-        -ms-transform: translateY(-0.9rem);
-        transform: translateY(-0.9rem);
-        padding: 0 .5rem;
+        -webkit-transform: translateY(-0.8rem);
+        -ms-transform: translateY(-0.8rem);
+        transform: translateY(-0.8rem);
+        padding: 0 .3rem;
     }
 </style>
