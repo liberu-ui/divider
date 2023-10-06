@@ -1,10 +1,10 @@
 # Divider
 
-![NPM License](https://img.shields.io/npm/l/@enso-ui/divider.svg)
-![npm download](https://img.shields.io/npm/dm/@enso-ui/divider.svg)
-![GitHub top language](https://img.shields.io/github/languages/top/enso-ui/divider.svg)
-![GitHub issues](https://img.shields.io/github/issues/enso-ui/divider.svg)
-![npm version](https://img.shields.io/npm/v/@enso-ui/divider.svg)
+![NPM License](https://img.shields.io/npm/l/@liberu-ui/divider.svg)
+![npm download](https://img.shields.io/npm/dm/@liberu-ui/divider.svg)
+![GitHub top language](https://img.shields.io/github/languages/top/liberu-ui/divider.svg)
+![GitHub issues](https://img.shields.io/github/issues/liberu-ui/divider.svg)
+![npm version](https://img.shields.io/npm/v/@liberu-ui/divider.svg)
 
 Vue Divider Package
 
