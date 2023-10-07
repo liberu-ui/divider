@@ -1,6 +1,6 @@
 {
   "name": "@liberu-ui/divider",
-  "version": "2.0.7",
+  "version": "2.0.8",
   "description": "Divider",
   "main": "index.ts",
   "scripts": {
